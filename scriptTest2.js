@@ -15,11 +15,11 @@ for (var i=0, max=all.length; i < max; i++) {
 }
 }
 
-if (document.getElementsByTagName)
-    var elements = document.getElementsByTagName(all);
-else
-    // loop through all elements instead
-print(elements);
+// if (document.getElementsByTagName)
+//     var elements = document.getElementsByTagName(all);
+// else
+//     // loop through all elements instead
+// print(elements);
   };
 
 console.log('C'); 
