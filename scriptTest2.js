@@ -13,6 +13,7 @@ for (var i=0, max=all.length; i < max; i++) {
 	
 	console.log(all[i]);
 }
+}
 
 if (document.getElementsByTagName)
     var elements = document.getElementsByTagName(all);
